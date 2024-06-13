@@ -37,7 +37,7 @@
 
 <h3>Where To Find Me:</h3>
 <p>
-  <a href="https://www.linkedin.com/in/wonjae-lee-99796b2a6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/sam-wonjae-lee" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Sam-Wonjae-Lee" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="mailto:wonjaesamuel.lee@mail.utoronto.ca" target="_blank"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 </p>
